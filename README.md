@@ -1,4 +1,4 @@
-# mario-jump-game
+# mario-jumping-game
 Jogo feito baseado em uma aula de Javascript, utilizando apenas CSS, HTML e JS puro.
 
 ## Como executar
